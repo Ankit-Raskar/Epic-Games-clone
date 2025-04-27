@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body{
+    background-color: #01020b;
+}
+
+.logo{
+    width: 30px;
+    padding: 10px;
+}
+
+nav{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav img{
+    margin-left: 10px;
+}
+
+
+
+li a{
+    color: rgb(167, 160, 117);
+    font-size: 20px;
+    margin-right: 30px;
+}
+
+main video{
+    width: 50%;
+    padding-top: 30px;
+    padding-left: 30px;
+    margin: 80px;
+    border-radius: 80px;
+}
+.elden{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+main h3{
+    text-align: center;
+    align-items: center;
+    color: rgb(167, 160, 117);
+    font-size: large;
+    padding-top: 40px;
+
+}
+
+
+main h1{
+    text-align: center;
+    color: rgb(167, 160, 117);
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+
+
+
+main img{
+    padding: 64.3px;
+    border-radius: 100px;
+}
+
+div.souls{
+    float: left;
+    /* margin-left: 10px; */
+    margin: 5px;
+}
+
+.souls-text{
+    text-align: center;
+    align-items: center;
+    color: rgb(167, 160, 117);
+    font-size: large;
+    
+}
+
+div.price{
+    text-align: center;
+    color: rgb(167, 160, 117);
+    font-size: large;
+    
+}
+
+div.buy{
+    color: rgb(167, 160, 117);
+    border-radius: 10px;
+    text-align: center;
+    
+
+}
+
+
+.About{
+    text-align: center;
+    align-items: center;
+    color: rgb(167, 160, 117);
+    font-size: large;
+    padding-top: 40px;
+    margin: 120px;
+}
+
+.Contact{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 70px;
+    
+}
+
+.Customer{
+    padding-left: 100px;
+}
+
+.Social{
+    padding-right: 100px;
+    color: rgb(167, 160, 117);
+}
+
+.footer{
+    text-align: center;
+    align-items: center;
+    color: rgb(167, 160, 117);
+    font-size: x-large;
+    padding-top: 20px;
+    background-color: black;
+
+}
+
+.copy{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.souls:hover{
+    transform: scale(1.03);
+}
+
+.buy1{
+    color: black;
+    background-color: rgb(167, 160, 117);
+    font-size: x-large;
+    border-radius: 30px;
+    width: 50%;
+}
+
+
+
