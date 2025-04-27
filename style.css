@@ -63,7 +63,7 @@ main h1{
 
 
 
-main img{
+main img {
     padding: 64.3px;
     border-radius: 100px;
 }
@@ -150,6 +150,26 @@ div.buy{
     border-radius: 30px;
     width: 50%;
 }
+#topBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: #555;
+    color: white;
+    cursor: pointer;
+    padding: 10px 15px;
+    border-radius: 10px;
+  }
+  
+  #topBtn:hover {
+    background-color: #333;
+  }
+  
 
 
 
